@@ -12,7 +12,7 @@ function function_name(n) {
 
 
 console.log(function_name(10));
-//alert(function_name(4));
+alert(function_name(4));
 
 
 
